@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="noteName">Заметки</string>
+    <string name="writeSomething">Напишите что-нибудь</string>
+    <string name="name">Имя</string>
+    <string name="search">Поиск</string>
+    <string name="warning">Удаление</string>
+    <string name="contentDialog">Вы уверены что хотите удалить запись:   </string>
+    <string name="delete">да</string>
+    <string name="back">нет</string>
+    <string name="notSearch">Нет результатов поиска</string>
+</resources>
