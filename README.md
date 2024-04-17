@@ -1,5 +1,5 @@
 # Note App
-This is a simple todo list wich use room database
+This is a simple todo list weach use room database
 
 ## Stack
 + Kotlin
